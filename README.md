@@ -16,18 +16,6 @@ Visualization: Visual representations of customer data to identify trends and su
 
 Reporting: Summary of findings and actionable insights.
 
-NotebookLM Evaluation Report: A detailed evaluation of NotebookLM for potential use in the university's educational activities.
-
-Repository Structure
-
-report/: Contains the NotebookLM evaluation report, including practical demonstrations and critical analysis of its functionalities.
-
-Getting Started
-
-Clone the Repository:
-
-git clone https://github.com/ntxuan1799/BUS5001_Assm3_Task2.git
-
 Review the Report: Navigate to the report/ directory to review the evaluation of NotebookLM, including examples and critical analysis.
 
 NotebookLM Evaluation Report
