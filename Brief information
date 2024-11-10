@@ -1,0 +1,65 @@
+Briefing Doc: Cloud Platforms, Analytics, and Data Ethics
+This briefing document summarises key themes and insights from provided excerpts of "BUS5001-Wk12.pdf," focusing on cloud computing, data analytics, and the crucial intersection of artificial intelligence and data ethics.
+
+I. Cloud Platforms and Analytics Recap
+
+This course provided a foundational understanding of cloud platforms and analytics, covering:
+
+Core cloud concepts: Advantages, deployment models (IaaS, SaaS, PaaS), and enabling technologies like virtualisation and containerisation.
+Navigating major cloud platforms: Key services offered by providers like Azure and GCP.
+Cloud adoption and governance: Best practices for implementing and managing cloud services.
+DevOps principles and tools: DevOps, DevSecOps, AIOps, MLOps, version control, Kubernetes, Git, Github, and Github Actions.
+Cloud security: Understanding boundaries, threats, and security best practices.
+Coding in the cloud: Leveraging platforms like Google Colab and serverless functions (e.g., Google Cloud Functions).
+Data storage spectrum: From traditional databases to Big Data and streaming data use cases.
+Data tools: Azure Blob Storage, Data Factory, Cosmos DB, Google Big Table, Big Query, Dataflow, Looker, Azure SQL, and Databricks.
+Robotic Process Automation: Applications, including Logic Apps, conversational agents, and Google Dialogflow.
+AI in the cloud: Exploring AI services like Azure Cognitive Services, Hugging Face, Google Colab, and OpenAI.
+II. Data Ethics: A Deep Dive
+
+The document emphasizes the increasing importance of ethical considerations in the age of data and AI.
+
+Morality, Ethics, and Law:
+Morals: Personal beliefs and philosophies guiding individual choices.
+Ethics: Community standards defining correct behaviour.
+Law: Societal rules enforced to uphold morals and ethics.
+Key Ethical Frameworks:
+Consequentialism: Judging actions by their outcomes. Example: "A cloud company considers implementing a new AI algorithm […] They decide to proceed only if the positive outcomes outweigh the negative impacts."
+Deontological Ethics: Focus on adhering to rules and duties regardless of consequences. Example: "Implementing a strict no-tolerance policy against using customer data for purposes other than those explicitly agreed to."
+Virtue Ethics: Cultivating good character traits to guide ethical decision-making. Example: "Promoting a company culture where employees are recognized and rewarded for demonstrating integrity."
+Ethics of Care: Emphasising empathy, relationships, and responsibility. Example: "Establishing an employee assistance program that provides support for mental health."
+Other frameworks: Environmental ethics, principlism (autonomy, beneficence, non-maleficence, justice), and professional codes of ethics.
+Data Ethics in Action: The document examines the practical application of these frameworks to real-world scenarios like autonomous vehicles, AI-powered sentencing, data privacy, and responsible data collection.
+III. Data Security, Protection, and Privacy
+
+Key Distinctions:
+Data Security: Protecting data from unauthorised access (external threats).
+Data Protection: Safeguarding data from internal misuse and unregulated control.
+Data Privacy: Controlling how data is used and respecting individual rights.
+Regulations and Guidelines:
+GDPR (EU): Strict regulations setting a high standard for data protection globally.
+OECD Privacy Guidelines: International principles promoting privacy protection across member countries.
+HIPAA (US): Standards for protecting patient health information.
+Australian Regulations: Privacy Act 1988, Notifiable Data Breaches Scheme, Australian Privacy Principles, and the Consumer Data Right.
+Responsible Data Collection: Principles like informed consent, anonymity, confidentiality, security, privacy, accuracy, ownership, honesty, responsibility, and transparency.
+Anonymised Data: Balancing the benefits of data anonymization for analysis with the potential loss of contextual information and ethical concerns.
+Opt-in vs. Opt-out: The importance of user choice and informed consent in data collection practices.
+Data Rights:
+Right to be Forgotten: Individual's right to request data removal.
+Right to Data Expiry: Deleting data after it fulfills its purpose.
+Data Ownership: Empowering users with control over their data.
+IV. AI Ethics and the Way Forward
+
+AI Ethics in Public Interest: Addressing ethical challenges in areas like autonomous vehicles, automated sentencing, and the potential for bias and discrimination.
+Shifting from Guidelines to Action:
+Micro-ethics: Developing concrete implementations of abstract ethical principles.
+Ethical Algorithm Design: Integrating ethical considerations directly into AI systems.
+Data Sheet Standardization: Documenting dataset properties for transparency and accountability.
+Shifting from Deontology to Virtue Ethics: Moving beyond checkbox compliance to a more nuanced, context-sensitive approach.
+Engaging Ethicists: Integrating ethical expertise into technical communities.
+Public Dialogue: Fostering open discussions on the social impact of AI.
+Example: Smart Meters: Illustrates ethical challenges in a real-world application, highlighting potential privacy concerns alongside benefits for energy management.
+Limitations and Challenges: Recognising the limitations of current ethical frameworks, including resource constraints, lack of enforcement, and the need for greater diversity and inclusivity in AI development.
+V. Conclusion
+
+This document provides a comprehensive overview of the ethical landscape surrounding cloud computing, data analytics, and AI. It emphasizes the need for proactive measures to ensure responsible data practices and mitigate potential harms. As AI technologies become increasingly integrated into our lives, thoughtful consideration of ethical implications is paramount.
